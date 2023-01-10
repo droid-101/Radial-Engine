@@ -2,7 +2,7 @@
 
 This model is an assembly of many different parts of a five cylinder radial engine. A pair of two counter-rotating propeller blades are powered by the crankshaft of this engine.
 
-![animation](images/animation.gif)
+![animation](Images/animation.gif)
 
 ## Engine Block
 
@@ -23,10 +23,10 @@ The propellers which the radial engine powers were modelled after the propellers
 # Model
 
 ## Isometric View
-![Isometric View](images/iso.png)
+![Isometric View](Images/iso.png)
 
 ## Side View
-![Side View](images/side.png)
+![Side View](Images/side.png)
 
 # Rear View
-![rear View](images/rear.png)
+![rear View](Images/rear.png)
